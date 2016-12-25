@@ -1,2 +1,2 @@
 # ChimSim - Simulate Chimeric RNA-seq reads
-This tool....
+This tool simulates chimeric reads
